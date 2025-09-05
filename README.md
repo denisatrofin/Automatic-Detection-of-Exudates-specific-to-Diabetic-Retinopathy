@@ -1,0 +1,2 @@
+# Automatic-Detection-of-Exudates-specific-to-Diabetic-Retinopathy
+This thesis focuses on the automatic detection of hard exudates in retinal fundus images, an important step in the early diagnosis of diabetic retinopathy. The project proposes a complete image processing pipeline developed in Python, combining segmentation methods and SVM classification to support both screening and monitoring of the disease.
