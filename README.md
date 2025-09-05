@@ -9,7 +9,7 @@ The pipeline was fully developed in **Python** and integrates **classical image 
 
 ## 📌 Features
 - Preprocessing of retinal fundus images (normalization, CLAHE, morphology).
-- Optic disc detection (classical method + U-Net).
+- Optic disc detection (classical method + **U-Net**).
 - Blood vessel segmentation (Frangi filter).
 - Candidate region extraction using **Fuzzy C-Means (FCM)**.
 - Feature extraction (color, texture, contrast-based descriptors).
